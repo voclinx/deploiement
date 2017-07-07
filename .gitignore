@@ -1,0 +1,11 @@
+
+\.idea/workspace\.xml
+
+app/data/
+
+\.idea/
+/app/config/environnement_path.php
+
+*.xml
+
+*.iml
