@@ -1,0 +1,9 @@
+{
+    "require-dev": {
+        "sebastian/git": "^2.1"
+    },
+    "require": {
+        "cpliakas/git-wrapper": "^1.7",
+        "czproject/git-php": "^3.9"
+    }
+}
